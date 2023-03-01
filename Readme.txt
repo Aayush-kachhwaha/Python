@@ -1,0 +1,1 @@
+This is work friend Aayush in this we will going to see the working of python with the help of small small program of python
