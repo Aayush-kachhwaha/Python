@@ -1,4 +1,5 @@
 # This is a program for finding the Wi-Fi password 
+# This may find the Wi-Fi from known and unknown browser 
 import pywifi
 import time
 from pywifi import const
