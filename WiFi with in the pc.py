@@ -1,3 +1,5 @@
+# This is for Wi-Fi password presents in the computer 
+
 import subprocess
 
 data = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8').split('\n')
